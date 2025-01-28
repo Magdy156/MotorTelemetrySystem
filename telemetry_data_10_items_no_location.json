@@ -1,0 +1,402 @@
+[
+    {
+        "device_id": "EV12345001",
+        "timestamp": "2024-01-01T12:01:00Z",
+        "sensors": {
+            "temperature": {
+                "value": 43.0,
+                "unit": "C"
+            },
+            "battery": {
+                "value": 54.8,
+                "unit": "percent"
+            },
+            "speed": {
+                "value": 76.2,
+                "unit": "km/h"
+            },
+            "motor": {
+                "current": {
+                    "value": 120,
+                    "unit": "A"
+                },
+                "voltage": {
+                    "value": 320,
+                    "unit": "V"
+                },
+                "power": {
+                    "value": 38.4,
+                    "unit": "kW"
+                }
+            }
+        },
+        "alerts": [
+            {
+                "type": "temperature_warning",
+                "message": "Temperature is approaching the upper threshold.",
+                "threshold": 40,
+                "unit": "C"
+            }
+        ]
+    },
+    {
+        "device_id": "EV12345002",
+        "timestamp": "2024-01-01T12:02:00Z",
+        "sensors": {
+            "temperature": {
+                "value": 43.0,
+                "unit": "C"
+            },
+            "battery": {
+                "value": 54.8,
+                "unit": "percent"
+            },
+            "speed": {
+                "value": 76.2,
+                "unit": "km/h"
+            },
+            "motor": {
+                "current": {
+                    "value": 120,
+                    "unit": "A"
+                },
+                "voltage": {
+                    "value": 320,
+                    "unit": "V"
+                },
+                "power": {
+                    "value": 38.4,
+                    "unit": "kW"
+                }
+            }
+        },
+        "alerts": [
+            {
+                "type": "temperature_warning",
+                "message": "Temperature is approaching the upper threshold.",
+                "threshold": 40,
+                "unit": "C"
+            }
+        ]
+    },
+    {
+        "device_id": "EV12345003",
+        "timestamp": "2024-01-01T12:03:00Z",
+        "sensors": {
+            "temperature": {
+                "value": 43.0,
+                "unit": "C"
+            },
+            "battery": {
+                "value": 54.8,
+                "unit": "percent"
+            },
+            "speed": {
+                "value": 76.2,
+                "unit": "km/h"
+            },
+            "motor": {
+                "current": {
+                    "value": 120,
+                    "unit": "A"
+                },
+                "voltage": {
+                    "value": 320,
+                    "unit": "V"
+                },
+                "power": {
+                    "value": 38.4,
+                    "unit": "kW"
+                }
+            }
+        },
+        "alerts": [
+            {
+                "type": "temperature_warning",
+                "message": "Temperature is approaching the upper threshold.",
+                "threshold": 40,
+                "unit": "C"
+            }
+        ]
+    },
+    {
+        "device_id": "EV12345004",
+        "timestamp": "2024-01-01T12:04:00Z",
+        "sensors": {
+            "temperature": {
+                "value": 43.0,
+                "unit": "C"
+            },
+            "battery": {
+                "value": 54.8,
+                "unit": "percent"
+            },
+            "speed": {
+                "value": 76.2,
+                "unit": "km/h"
+            },
+            "motor": {
+                "current": {
+                    "value": 120,
+                    "unit": "A"
+                },
+                "voltage": {
+                    "value": 320,
+                    "unit": "V"
+                },
+                "power": {
+                    "value": 38.4,
+                    "unit": "kW"
+                }
+            }
+        },
+        "alerts": [
+            {
+                "type": "temperature_warning",
+                "message": "Temperature is approaching the upper threshold.",
+                "threshold": 40,
+                "unit": "C"
+            }
+        ]
+    },
+    {
+        "device_id": "EV12345005",
+        "timestamp": "2024-01-01T12:05:00Z",
+        "sensors": {
+            "temperature": {
+                "value": 43.0,
+                "unit": "C"
+            },
+            "battery": {
+                "value": 54.8,
+                "unit": "percent"
+            },
+            "speed": {
+                "value": 76.2,
+                "unit": "km/h"
+            },
+            "motor": {
+                "current": {
+                    "value": 120,
+                    "unit": "A"
+                },
+                "voltage": {
+                    "value": 320,
+                    "unit": "V"
+                },
+                "power": {
+                    "value": 38.4,
+                    "unit": "kW"
+                }
+            }
+        },
+        "alerts": [
+            {
+                "type": "temperature_warning",
+                "message": "Temperature is approaching the upper threshold.",
+                "threshold": 40,
+                "unit": "C"
+            }
+        ]
+    },
+    {
+        "device_id": "EV12345006",
+        "timestamp": "2024-01-01T12:06:00Z",
+        "sensors": {
+            "temperature": {
+                "value": 43.0,
+                "unit": "C"
+            },
+            "battery": {
+                "value": 54.8,
+                "unit": "percent"
+            },
+            "speed": {
+                "value": 76.2,
+                "unit": "km/h"
+            },
+            "motor": {
+                "current": {
+                    "value": 120,
+                    "unit": "A"
+                },
+                "voltage": {
+                    "value": 320,
+                    "unit": "V"
+                },
+                "power": {
+                    "value": 38.4,
+                    "unit": "kW"
+                }
+            }
+        },
+        "alerts": [
+            {
+                "type": "temperature_warning",
+                "message": "Temperature is approaching the upper threshold.",
+                "threshold": 40,
+                "unit": "C"
+            }
+        ]
+    },
+    {
+        "device_id": "EV12345007",
+        "timestamp": "2024-01-01T12:07:00Z",
+        "sensors": {
+            "temperature": {
+                "value": 43.0,
+                "unit": "C"
+            },
+            "battery": {
+                "value": 54.8,
+                "unit": "percent"
+            },
+            "speed": {
+                "value": 76.2,
+                "unit": "km/h"
+            },
+            "motor": {
+                "current": {
+                    "value": 120,
+                    "unit": "A"
+                },
+                "voltage": {
+                    "value": 320,
+                    "unit": "V"
+                },
+                "power": {
+                    "value": 38.4,
+                    "unit": "kW"
+                }
+            }
+        },
+        "alerts": [
+            {
+                "type": "temperature_warning",
+                "message": "Temperature is approaching the upper threshold.",
+                "threshold": 40,
+                "unit": "C"
+            }
+        ]
+    },
+    {
+        "device_id": "EV12345008",
+        "timestamp": "2024-01-01T12:08:00Z",
+        "sensors": {
+            "temperature": {
+                "value": 43.0,
+                "unit": "C"
+            },
+            "battery": {
+                "value": 54.8,
+                "unit": "percent"
+            },
+            "speed": {
+                "value": 76.2,
+                "unit": "km/h"
+            },
+            "motor": {
+                "current": {
+                    "value": 120,
+                    "unit": "A"
+                },
+                "voltage": {
+                    "value": 320,
+                    "unit": "V"
+                },
+                "power": {
+                    "value": 38.4,
+                    "unit": "kW"
+                }
+            }
+        },
+        "alerts": [
+            {
+                "type": "temperature_warning",
+                "message": "Temperature is approaching the upper threshold.",
+                "threshold": 40,
+                "unit": "C"
+            }
+        ]
+    },
+    {
+        "device_id": "EV12345009",
+        "timestamp": "2024-01-01T12:09:00Z",
+        "sensors": {
+            "temperature": {
+                "value": 43.0,
+                "unit": "C"
+            },
+            "battery": {
+                "value": 54.8,
+                "unit": "percent"
+            },
+            "speed": {
+                "value": 76.2,
+                "unit": "km/h"
+            },
+            "motor": {
+                "current": {
+                    "value": 120,
+                    "unit": "A"
+                },
+                "voltage": {
+                    "value": 320,
+                    "unit": "V"
+                },
+                "power": {
+                    "value": 38.4,
+                    "unit": "kW"
+                }
+            }
+        },
+        "alerts": [
+            {
+                "type": "temperature_warning",
+                "message": "Temperature is approaching the upper threshold.",
+                "threshold": 40,
+                "unit": "C"
+            }
+        ]
+    },
+    {
+        "device_id": "EV12345010",
+        "timestamp": "2024-01-01T12:10:00Z",
+        "sensors": {
+            "temperature": {
+                "value": 43.0,
+                "unit": "C"
+            },
+            "battery": {
+                "value": 54.8,
+                "unit": "percent"
+            },
+            "speed": {
+                "value": 76.2,
+                "unit": "km/h"
+            },
+            "motor": {
+                "current": {
+                    "value": 120,
+                    "unit": "A"
+                },
+                "voltage": {
+                    "value": 320,
+                    "unit": "V"
+                },
+                "power": {
+                    "value": 38.4,
+                    "unit": "kW"
+                }
+            }
+        },
+        "alerts": [
+            {
+                "type": "temperature_warning",
+                "message": "Temperature is approaching the upper threshold.",
+                "threshold": 40,
+                "unit": "C"
+            }
+        ]
+    }
+]
