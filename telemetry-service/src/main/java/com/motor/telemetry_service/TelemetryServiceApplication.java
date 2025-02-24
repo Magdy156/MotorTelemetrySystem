@@ -19,7 +19,7 @@ public class TelemetryServiceApplication {
 	}
 
 	@Bean
-    CommandLineRunner runner(TelemetryRepository repository) {
+    CommandLineRunner runner(TelemetryDataRepository repository) {
         return args -> {
             ObjectMapper mapper = new ObjectMapper();
             File file = new File("telemetry_data_10_items_no_location.json");
